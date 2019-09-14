@@ -1,9 +1,6 @@
 # bamazon
-An exercise in node.js and MySQL
-*This is a simple application that allows a customer to
-  *select an Item ID
-  *select quantity of item
-  *decide to keep shopping or start the check out process (ends in "false')
+An exercise in node.js and MySQL. 
+<b>This is a simple application</b> that allows a customer to: 1) select an Item ID, 2) select quantity of item, and 3)decide to keep shopping or start the check out process (ends in "false').
 
 Customer Instructions
 * The first should ask them the ID of the product they would like to buy.
