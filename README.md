@@ -19,13 +19,19 @@ Customer Instructions
     
     * If No, they will be done (at this point, this is the end of the application).
 
+mySQL Table of item ID, item description (brief), price and quantity:
 
+![mySQL_Table](https://user-images.githubusercontent.com/19918320/64914614-2dd3a280-d70a-11e9-8baa-267382651c4f.png)
+
+Customer is prompted to select Item ID: 
 
 ![ID_prompt](https://user-images.githubusercontent.com/19918320/64914612-2dd3a280-d70a-11e9-819f-78fe27492ac3.png)
-![mySQL_Table](https://user-images.githubusercontent.com/19918320/64914614-2dd3a280-d70a-11e9-8baa-267382651c4f.png)
+
+After customer has selected Item ID and quantity, they can decide (via prompt) if they want to keep shopping or not (Y/N answer):
+
 ![selectingitems](https://user-images.githubusercontent.com/19918320/64914615-2dd3a280-d70a-11e9-861c-0a7b85c30312.png)
 
   
 
 Developer Info: Jenn June, jennjuneux@gmail.com
-Special Thanks to: Rita Manly and Arron Linton
+Special Thanks to: Rita Manley and Arron Linton
