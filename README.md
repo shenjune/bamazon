@@ -11,8 +11,9 @@ Customer Instructions
 
 
 * After the ID selection and quantity is determined by the customer, the customer will be prompted if they want to continue shopping.
-    * If Yes, they will be brought back to selecting another Item_ID
-    * If NO, they will be done (at this point, this is the end of the application).
+    * If Yes, they will be brought back to selecting another Item_ID.
+    
+    * If No, they will be done (at this point, this is the end of the application).
 
 
 
